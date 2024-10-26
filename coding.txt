@@ -1,5 +1,7 @@
 n=3
 for i in range n:
 print("Jai Hind")
-print("hello ji"
+print("hello ji")
+a=[1,3,5,7,8]
+print(a)
  
