@@ -1,4 +1,5 @@
 n=3
 for i in range n:
 print("Jai Hind")
+print("hello ji"
  
